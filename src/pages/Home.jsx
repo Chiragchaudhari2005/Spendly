@@ -6,7 +6,7 @@ function Home() {
   return (
     <div className='h-screen w-screen flex flex-col bg-[#2ea9b8]'>
       <Navbar />
-      <div className='flex-grow pt-16'>
+      <div className='flex-grow pt-16 bg-[#2ea9b8]'>
         <TransacLogger />
       </div>
     </div>
