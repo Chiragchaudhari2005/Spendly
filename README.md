@@ -28,7 +28,7 @@ Spendly is a full-stack cloud-integrated expense tracker that helps users record
 
 ## Flow Diagram
 
-![alt text](./Spendly%20Flow%20Diagram.png)
+![alt text](./public/Spendly%20Flow%20Diagram.png)
 
 ### 1. Frontend Input Form
 
